@@ -1,5 +1,24 @@
 # 🔥 TRIBAL CHIEF WEB PANEL
 
+
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
+
+
+![Node.js](https://img.shields.io/badge/node-%3E%3D14-green)
+
+
+
+
+![React](https://img.shields.io/badge/react-%3E%3D18-61dafb)
+
+
+
+
+![Status](https://img.shields.io/badge/status-production%20ready-brightgreen)
+
 A professional, modern web dashboard for managing your Tribal Chief VPS control system. Built with **React + Node.js**, inspired by the clean aesthetics of 3xui.
 
 ---
